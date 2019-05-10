@@ -8,3 +8,4 @@ This repo is backup for my personal daily python algorithm practices.
 </br>My suggested Golang tutorial would be [The way to go](https://github.com/Unknwon/the-way-to-go_ZH_CN).
 </br>My suggested Python algorithm ebook is [All Algorithms - Python](https://github.com/TheAlgorithms/Python).
 </br>My favourite online programming web is [Lintcode](https://www.lintcode.com)
+</br>My preferred way of deployment is static. E.g. Jenkinsfile, dockerfile, etc.
